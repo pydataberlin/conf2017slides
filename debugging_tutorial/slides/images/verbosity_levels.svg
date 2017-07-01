@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3245"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="images.svg">
+  <defs
+     id="defs3247">
+    <linearGradient
+       id="linearGradient3320">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop3322" />
+      <stop
+         id="stop3332"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.49803922;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3320"
+       id="linearGradient3326"
+       x1="444.28571"
+       y1="133.79074"
+       x2="442.85712"
+       y2="391.15707"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,14.142136,594.51877)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="95.572294"
+     inkscape:cy="524.04043"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3250">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3373"
+       width="666.70068"
+       height="452.54834"
+       x="30.304577"
+       y="60.392384"
+       inkscape:export-filename="/home/krother/Desktop/Pro_Python_Debugging/verbosity_levels.png"
+       inkscape:export-xdpi="90.18866"
+       inkscape:export-ydpi="90.18866" />
+    <g
+       id="g3012"
+       transform="translate(42.347924,-23.360907)"
+       inkscape:export-filename="/home/krother/Desktop/Pro_Python_Debugging/verbosity_levels.png"
+       inkscape:export-xdpi="90.18866"
+       inkscape:export-ydpi="90.18866">
+      <rect
+         y="149.02046"
+         x="54.951618"
+         height="59.119537"
+         width="294.68665"
+         id="rect2985"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.46930695" />
+      <flowRoot
+         transform="translate(26.263966,4.0406102)"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot2987"
+         xml:space="preserve"><flowRegion
+           id="flowRegion2989"><rect
+             y="158.37718"
+             x="68.690376"
+             height="39.86512"
+             width="253.75856"
+             id="rect2991" /></flowRegion><flowPara
+           style="font-size:24px"
+           id="flowPara2993">logging.CRITICAL</flowPara></flowRoot>    </g>
+    <g
+       inkscape:export-ydpi="90.18866"
+       inkscape:export-xdpi="90.18866"
+       inkscape:export-filename="/home/krother/Desktop/Pro_Python_Debugging/verbosity_levels.png"
+       transform="translate(42.347924,48.067673)"
+       id="g3270">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.46930695"
+         id="rect3272"
+         width="294.68665"
+         height="59.119537"
+         x="54.951618"
+         y="149.02046" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3274"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         transform="translate(26.263966,4.0406102)"><flowRegion
+           id="flowRegion3276"><rect
+             id="rect3278"
+             width="198.75856"
+             height="34.86512"
+             x="68.690376"
+             y="158.37718" /></flowRegion><flowPara
+           id="flowPara3280"
+           style="font-size:24px">logging.ERROR</flowPara></flowRoot>    </g>
+    <g
+       id="g3282"
+       transform="translate(42.347924,119.49617)"
+       inkscape:export-filename="/home/krother/Desktop/Pro_Python_Debugging/verbosity_levels.png"
+       inkscape:export-xdpi="90.18866"
+       inkscape:export-ydpi="90.18866">
+      <rect
+         y="149.02046"
+         x="54.951618"
+         height="59.119537"
+         width="294.68665"
+         id="rect3284"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.46930695" />
+      <flowRoot
+         transform="translate(26.263966,4.0406102)"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot3286"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3288"><rect
+             y="158.37718"
+             x="68.690376"
+             height="38.436546"
+             width="223.04427"
+             id="rect3290" /></flowRegion><flowPara
+           style="font-size:24px"
+           id="flowPara3292">logging.WARNING</flowPara></flowRoot>    </g>
+    <g
+       inkscape:export-ydpi="90.18866"
+       inkscape:export-xdpi="90.18866"
+       inkscape:export-filename="/home/krother/Desktop/Pro_Python_Debugging/verbosity_levels.png"
+       transform="translate(42.347924,190.92478)"
+       id="g3294">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.46930695"
+         id="rect3296"
+         width="294.68665"
+         height="59.119537"
+         x="54.951618"
+         y="149.02046" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3298"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         transform="translate(26.263966,4.0406102)"><flowRegion
+           id="flowRegion3300"><rect
+             id="rect3302"
+             width="185.18712"
+             height="39.150841"
+             x="68.690376"
+             y="158.37718" /></flowRegion><flowPara
+           id="flowPara3304"
+           style="font-size:24px">logging.DEBUG</flowPara></flowRoot>    </g>
+    <g
+       id="g3306"
+       transform="translate(42.347924,262.35337)"
+       inkscape:export-filename="/home/krother/Desktop/Pro_Python_Debugging/verbosity_levels.png"
+       inkscape:export-xdpi="90.18866"
+       inkscape:export-ydpi="90.18866">
+      <rect
+         y="149.02046"
+         x="54.951618"
+         height="59.119537"
+         width="294.68665"
+         id="rect3308"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.46930695" />
+      <flowRoot
+         transform="translate(26.263966,4.0406102)"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot3310"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3312"><rect
+             y="158.37718"
+             x="68.690376"
+             height="39.150841"
+             width="185.18712"
+             id="rect3314" /></flowRegion><flowPara
+           style="font-size:24px"
+           id="flowPara3316">logging.INFO</flowPara></flowRoot>    </g>
+    <path
+       style="fill:url(#linearGradient3326);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 429.85643,470.72802 54.28571,0 -27.14286,-344.28572 z"
+       id="path3318"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/krother/Desktop/Pro_Python_Debugging/verbosity_levels.png"
+       inkscape:export-xdpi="90.18866"
+       inkscape:export-ydpi="90.18866" />
+    <flowRoot
+       transform="translate(435.64894,-40.532214)"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot2987-1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/krother/Desktop/Pro_Python_Debugging/verbosity_levels.png"
+       inkscape:export-xdpi="90.18866"
+       inkscape:export-ydpi="90.18866"><flowRegion
+         id="flowRegion2989-2"><rect
+           y="158.37718"
+           x="68.690376"
+           height="122.69764"
+           width="191.1291"
+           id="rect2991-4" /></flowRegion><flowPara
+         style="font-size:24px"
+         id="flowPara2993-6">least</flowPara><flowPara
+         style="font-size:24px"
+         id="flowPara3361">verbose</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3363"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(435.64894,259.0912)"
+       inkscape:export-filename="/home/krother/Desktop/Pro_Python_Debugging/verbosity_levels.png"
+       inkscape:export-xdpi="90.18866"
+       inkscape:export-ydpi="90.18866"><flowRegion
+         id="flowRegion3365"><rect
+           id="rect3367"
+           width="191.1291"
+           height="122.69764"
+           x="68.690376"
+           y="158.37718" /></flowRegion><flowPara
+         id="flowPara3369"
+         style="font-size:24px">most</flowPara><flowPara
+         id="flowPara3371"
+         style="font-size:24px">verbose</flowPara></flowRoot>  </g>
+</svg>
